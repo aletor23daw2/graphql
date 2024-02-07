@@ -1,0 +1,28 @@
+{
+  "name": "dawm07uf4-webservices-material",
+  "version": "1.0.0",
+  "description": "workshop M07UF4",
+  "main": "graphql.js", 
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.8.1",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "scripts": {
+    "start": "node graphql.js" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergigrau/DAWM07UF4-WebServices-material.git"
+  },
+  "keywords": [
+    "sergigrau"
+  ],
+  "author": "sergigrau@fje.edu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sergigrau/DAWM07UF4-WebServices-material/issues"
+  },
+  "homepage": "https://github.com/sergigrau/DAWM07UF4-WebServices-material#readme"
+}
